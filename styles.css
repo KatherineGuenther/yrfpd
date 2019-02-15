@@ -2,10 +2,18 @@ body {
   background-color: #d1e0e0;
 }
 
-li {
+.nav_bar {
   display: inline;
   border-right: 1px solid #bbb;
   padding-right: 5px;
+}
+
+.station_links {
+  text-align: center;
+  list-style: none;
+  font-size: 3vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
 }
 
 img.center {
@@ -36,7 +44,7 @@ button{
 }
 
 h1{
-  padding-top: 10px;
+  padding-top: 1vw;
   font-size: 3vw;
   text-align: center;
   color: #0000e6;
