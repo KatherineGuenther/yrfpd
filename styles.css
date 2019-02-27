@@ -2,6 +2,16 @@ body {
   background-color: #d1e0e0;
 }
 
+header img {
+  float:left;
+  height: 8vw;
+  margin-top: 0px;
+}
+
+header nav {
+  float:right;
+}
+
 .nav_bar {
   display: inline;
   font-size: 1.5vw;
@@ -52,10 +62,11 @@ button{
 }
 
 h1{
-  padding-top: 1vw;
+  padding-top: 8vw;
   font-size: 3vw;
   text-align: center;
-  color: #34346E;
+  color: #003399;
+  /*color: #34346E;*/
 }
 
 h3{
