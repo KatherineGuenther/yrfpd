@@ -46,6 +46,10 @@ img.center {
   margin-right: auto;
 }
 
+img.space {
+  padding: 3vw;
+}
+
 .email_button {
   padding-top: 1vw;
   text-align: center;
@@ -70,6 +74,11 @@ img.center {
   text-align: center;
   font-size: 2vw;
   color: #34346E;
+}
+
+.diagram_header {
+  margin-top: 4vw;
+  margin-bottom: 2vw;
 }
 
 button{
